@@ -1,1 +1,1 @@
-inspection app
+inspection
